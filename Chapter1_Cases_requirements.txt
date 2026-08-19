@@ -1,0 +1,15 @@
+# Requirements for Chapter1_Cases (building-block validation models).
+# TESPy version reconstructed from memory - double-check against your own
+# environment history (e.g. `pip freeze` logs) before treating it as exact.
+
+tespy==0.9.16
+CoolProp
+fluprodia
+
+# Optimization
+pymoo
+
+# Data handling & plotting
+numpy
+matplotlib
+plotly

@@ -1,0 +1,13 @@
+# Requirements for Chapter3_Cases (low-enthalpy ORC case studies).
+
+tespy==0.9.14
+exerpy
+CoolProp
+
+# Optimization
+pymoo
+
+# Data handling & plotting
+numpy
+pandas
+matplotlib

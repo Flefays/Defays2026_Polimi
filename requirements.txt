@@ -1,0 +1,17 @@
+# Requirements for Chapter4_Cases (the main/final thesis model - geothermal
+# high-enthalpy ORC). For Chapter 1 and Chapter 3, use the requirements.txt
+# file inside their respective folders instead: TESPy's API changed enough
+# between versions that older chapters' scripts are not guaranteed to run
+# on this version.
+
+tespy==0.10.2
+exerpy
+CoolProp
+
+# Optimization
+pymoo
+
+# Data handling & plotting
+numpy
+pandas
+matplotlib
