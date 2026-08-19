@@ -1,0 +1,5 @@
+# Exclude the large auto-generated Plotly HTML export from GitHub's
+# language statistics bar (it's not hand-written code, it's a chart export
+# that happens to be much heavier in bytes than all the Python scripts
+# combined, which was skewing the Languages bar towards HTML).
+Chapter1_Cases/HP/Diagrams/*.html linguist-vendored
