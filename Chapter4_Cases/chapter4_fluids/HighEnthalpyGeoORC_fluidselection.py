@@ -26,11 +26,11 @@ from CoolProp.CoolProp import AbstractState
 # -----------------------------------------------------------
 plt.rcParams.update({
     "font.family": "serif",
-    "font.size": 11,
-    "axes.labelsize": 13,
+    "font.size": 14,
+    "axes.labelsize": 16,
     "axes.linewidth": 1.1,
-    "xtick.labelsize": 11,
-    "ytick.labelsize": 11,
+    "xtick.labelsize": 12,
+    "ytick.labelsize": 12,
 })
 
 # Fluid names: offset positioning relative to critical point: (delta_s, delta_T) 
